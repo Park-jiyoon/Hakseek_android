@@ -1,0 +1,63 @@
+{
+  "project_info": {
+    "project_number": "459259614911",
+    "firebase_url": "https://hakseek2-820ce.firebaseio.com",
+    "project_id": "hakseek2-820ce",
+    "storage_bucket": "hakseek2-820ce.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:459259614911:android:24e9a7dbdab1d234",
+        "android_client_info": {
+          "package_name": "com.cookandroid.exam"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "459259614911-fsoeglckjmgar44aleludj812n4m3nfd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.cookandroid.exam",
+            "certificate_hash": "ba1864df190f9ab6f7497dd8643297c3129cf7c5"
+          }
+        },
+        {
+          "client_id": "459259614911-krpdei6fdkpr0mov5f2m1sidd27td1v9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.cookandroid.exam",
+            "certificate_hash": "a606120a748fae377a5c1015640f5253c1c1ce03"
+          }
+        },
+        {
+          "client_id": "459259614911-tb80tok6mg8btdppdqmskarb0bt4hvfc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDad6ZwvieYYuMSxw4Lsc2nMU1jPUzdypo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "459259614911-tb80tok6mg8btdppdqmskarb0bt4hvfc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

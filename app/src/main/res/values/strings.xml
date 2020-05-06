@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Hakseek2</string>
+    <string name="kakao_app_key">5f5430b694145b9db4b74c79da9a8a4f</string>
+    <string name="facebook_app_id">191290721818699</string>
+    <string name="fb_login_protocol_scheme">fb191290721818699</string>
+</resources>
