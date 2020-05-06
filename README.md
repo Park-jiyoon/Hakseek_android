@@ -14,11 +14,13 @@ The database was built with Google firebase realtime database. [firebase](https:
 
 
 * Charge payment after menu selection
+
 ![학식이6](https://user-images.githubusercontent.com/26848932/81167899-faaf8d80-8fd0-11ea-8f76-8ec070b762e4.png)
 ![학식이8](https://user-images.githubusercontent.com/26848932/81167902-fb482400-8fd0-11ea-84be-0033af114781.png)
 
 
 * Payment by order
+
 ![학식이7](https://user-images.githubusercontent.com/26848932/81167900-fb482400-8fd0-11ea-986c-626a52bf0cc0.png)
 
 
