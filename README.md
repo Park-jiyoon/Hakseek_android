@@ -1,3 +1,2 @@
-# Hakseek Application of Sejong Univ.
+# Hakseek Application of Sejong Univ. ![학식이](https://user-images.githubusercontent.com/26848932/81166812-1ca81080-8fcf-11ea-975f-5088c4269b10.png)
 
-![image](https://user-images.githubusercontent.com/26848932/81164751-d4d3ba00-8fcb-11ea-8187-8943c0de6b01.png)
