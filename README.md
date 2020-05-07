@@ -1,4 +1,4 @@
-# Hakseek Application of Sejong Univ. ![학식이](https://user-images.githubusercontent.com/26848932/81166812-1ca81080-8fcf-11ea-975f-5088c4269b10.png)
+# Hakseek Application for Android of Sejong Univ. ![학식이](https://user-images.githubusercontent.com/26848932/81166812-1ca81080-8fcf-11ea-975f-5088c4269b10.png) 
 ----------------------------------------------------------------------------------------------
 ### *The Android app is based on Starbucks' siren order, which leverages and implements the convenience of ordering/payment in advance in a student cafeteria.*
 The database was built with Google firebase realtime database. [firebase](https://firebase.google.com/docs/database?hl=ko)
